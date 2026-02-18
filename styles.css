@@ -89,7 +89,7 @@ header {
 .hero {
     background-color: var(--black);
     color: var(--white);
-    padding: 60px 0 100px;
+    padding: 20px 0 80px;
     /* Increased padding */
     position: relative;
     overflow: hidden;
@@ -108,9 +108,10 @@ header {
 
 .hero-content {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     gap: 40px;
+    padding-top: 10px;
 }
 
 .hero-text {
