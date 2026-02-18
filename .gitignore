@@ -1,0 +1,5 @@
+# AIOS Project Ignore
+.obsidian/
+.gemini/
+*.tmp
+node_modules/
