@@ -89,7 +89,7 @@ header {
 .hero {
     background-color: var(--black);
     color: var(--white);
-    padding: 120px 0 100px;
+    padding: 60px 0 100px;
     /* Increased padding */
     position: relative;
     overflow: hidden;
